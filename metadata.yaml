@@ -1,0 +1,60 @@
+_repo: The-Deerslayer_3285
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Morgan, Jane
+    - Cooper, J. Fenimore (James Fenimore)
+    - Cooper, Fenimore
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: "The Deerslayer, or The First Warpath (1841) was the last of James Fenimore\
+  \ Cooper's Leatherstocking Tales to be written. Its 1740-1745 time period makes\
+  \ it the first installment chronologically and in the lifetime of the hero of the\
+  \ Leatherstocking tales, Natty Bumppo. The novel's setting on Otsego Lake in central,\
+  \ upstate New York, is the same as that of The Pioneers, the first of the Leatherstocking\
+  \ Tales to be published (1823). The Deerslayer is considered to be the prequel to\
+  \ the rest of the series. Fenimore Cooper begins his work by relating the astonishing\
+  \ advance of civilization in New York State, which is the setting of four of his\
+  \ five Leatherstocking Tales.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3285'
+  wikidata: Q855801
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scouting (Reconnaissance) -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Bumppo, Natty (Fictitious character) -- Fiction'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Delaware Indians -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcsh 'Hunters -- Fiction'
+- !lcsh 'New York (State) -- History -- French and Indian War, 1754-1763 -- Fiction'
+- GITenberg
+title: The Deerslayer
+url: http://www.gutenberg.org/ebooks/3285
+wikipedia:
+- https://fi.wikipedia.org/wiki/Hirventappaja
+- https://hy.wikipedia.org/wiki/%D4%B3%D5%A1%D5%A6%D5%A1%D5%B6%D5%B8%D6%80%D5%BD%D5%A8_(%D5%BE%D5%A5%D5%BA)
+- https://de.wikipedia.org/wiki/Der_Wildt%C3%B6ter_(Roman,_1841)
+- https://en.wikipedia.org/wiki/The_Deerslayer
+- https://pl.wikipedia.org/wiki/Pogromca_zwierz%C4%85t_(powie%C5%9B%C4%87)
+- https://hu.wikipedia.org/wiki/B%C5%91rharisnya
+- https://sk.wikipedia.org/wiki/Lovec_jele%C5%88ov
+- https://bg.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B2%D0%B5%D1%86%D1%8A%D1%82_%D0%BD%D0%B0_%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8
+- https://uk.wikipedia.org/wiki/%D0%97%D0%B2%D1%96%D1%80%D0%BE%D0%B1%D1%96%D0%B9_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D0%B9_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://el.wikipedia.org/wiki/%CE%9F_%CE%95%CE%BB%CE%B1%CF%86%CE%BF%CE%BA%CF%85%CE%BD%CE%B7%CE%B3%CF%8C%CF%82_(%CE%BC%CF%85%CE%B8%CE%B9%CF%83%CF%84%CF%8C%CF%81%CE%B7%CE%BC%CE%B1)
