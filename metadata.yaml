@@ -1,5 +1,8 @@
 _repo: The-Deerslayer_3285
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -21,6 +24,8 @@ description: "The Deerslayer, or The First Warpath (1841) was the last of James 
   \ the rest of the series. Fenimore Cooper begins his work by relating the astonishing\
   \ advance of civilization in New York State, which is the setting of four of his\
   \ five Leatherstocking Tales.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3285#The-Deerslayer
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2002-06-01'
 gutenberg_type: Text
